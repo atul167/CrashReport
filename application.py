@@ -5,7 +5,7 @@ import pydeck as pdk
 import plotly.express as px
 
 #Our data is stored in the following location.
-DATA_URL = (r"https://drive.google.com/drive/u/0/folders/1NJ7-BeF4jlOUAWXzjALhuRuoT-BWqvTf")
+DATA_URL = (r"Crashes.csv")
 #heading
 st.title("Motor Vehicle Collisions in New York City")
 st.markdown("Made by Atul Dwivedi")
